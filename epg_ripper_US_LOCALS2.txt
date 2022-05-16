@@ -1,4 +1,4 @@
-202205142332
+202205152331
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -59,7 +59,6 @@ ABC.(KEZI).Eugene,.OR.us
 ABC.(KFBB).Great.Falls,.MT.us
 ABC.(KFSN).Fresno,.CA.us
 ABC.(KGBD-LD).Great.Bend,.KS.us
-ABC.(KGNS-DT2).Laredo,.TX.us
 ABC.(KGO).San.Francisco,.CA.us
 ABC.(KGTV).San.Diego,.CA.us
 ABC.(KGUN).Tucson,.AZ.us
@@ -279,7 +278,6 @@ ABC.(WTEN).Albany,.NY.us
 ABC.(WTNH-DT1).HD.New.Haven,.CT.us
 ABC.(WTNH-DT3).SD.New.Haven,.CT.us
 ABC.(WTOK).Meridian,.MS.us
-ABC.(WTRF-DT3).Wheeling,.WV.us
 ABC.(WTVA-DT2).Tupelo,.MS.us
 ABC.(WTVC).Chattanooga,.TN.us
 ABC.(WTVD).Raleigh,.NC.us
@@ -722,7 +720,6 @@ CBS.(KXII).Sherman,.TX.us
 CBS.(KXIP).Paris,.TX.us
 CBS.(KXJB).Fargo,.ND.us
 CBS.(KXLF).Butte,.MT.us
-CBS.(KXLH).Helena,.MT.us
 CBS.(KXLJ-LD).Juneau,.AK.us
 CBS.(KXMA-TV2).Dickinson,.ND.us
 CBS.(KXMB).Bismarck,.ND.us
@@ -730,7 +727,6 @@ CBS.(KXMC).Minot,.ND.us
 CBS.(KXMD).Williston,.ND.us
 CBS.(KXNW-DT2).Ft..Smith,.AR.us
 CBS.(KYES).Anchorage,.AK.us
-CBS.(KYLX-LD).Laredo,.TX.us
 CBS.(KYMA).Yuma,.AZ.us
 CBS.(KYTX).Tyler,.TX.us
 CBS.(KYW).Philadelphia,.PA.us
@@ -753,7 +749,6 @@ CBS.(WBTW).Myrtle.Beach,.SC.us
 CBS.(WBZ).Boston,.MA.us
 CBS.(WCAV).Charlottesville,.VA.us
 CBS.(WCAX).Burlington,.VT.us
-CBS.(WCBI).Colombus,.MS.us
 CBS.(WCBS).New.York,.NY.us
 CBS.(WCCO).Minneapolis,.MN.us
 CBS.(WCIA).Champaign,.IL.us
@@ -1473,7 +1468,6 @@ FOX.(KFXA).Cedar.Rapids,.IA.us
 FOX.(KFXK).Longview,.TX.us
 FOX.(KFXL-LD).Lufkin,.TX.us
 FOX.(KFXL).Lincoln,.NE.us
-FOX.(KFXO).Bend,.OR.us
 FOX.(KFXV-LD).McAllen,.TX.us
 FOX.(KFYR-DT2).Bismarck,.ND.us
 FOX.(KHAW).Hilo,.HI.us
@@ -2129,7 +2123,6 @@ MNT.(KREX-DT3).Grand.Junction,.CO.us
 MNT.(KRII-DT9).Chisholm,.MN.us
 MNT.(KRVU).Chico,.CA.us
 MNT.(KSBI).Oklahoma.City,.OK.us
-MNT.(KSCC-DT3).Corpus.Christi,.TX.us
 MNT.(KSHV).Shreveport,.LA.us
 MNT.(KSMO).Kansas.City,.MO.us
 MNT.(KSNB-DT2).Lincoln,.NE.us
@@ -2319,7 +2312,6 @@ NBC.(KFDX).Wichita.Falls,.TX.us
 NBC.(KFOR).Oklahoma.City,.OK.us
 NBC.(KFTA-DT2).Ft..Smith,.AR.us
 NBC.(KFYR).Bismarck,.ND.us
-NBC.(KGET).Bakersfield,.CA.us
 NBC.(KGIN-DT2).Hastings,.NE.us
 NBC.(KGNS).Laredo,.TX.us
 NBC.(KGWN-DT2).Cheyenne,.WY.us
@@ -2405,7 +2397,6 @@ NBC.(KTVE).Monroe,.LA.us
 NBC.(KTVF).Fairbanks,.AK.us
 NBC.(KTVH).Helena,.MT.us
 NBC.(KTVM).Butte,.MT.us
-NBC.(KTVZ).Bend,.OR.us
 NBC.(KUAM).Hagatna,.Guam.us
 NBC.(KULR).Billings,.MT.us
 NBC.(KUMV).Williston,.ND.us
