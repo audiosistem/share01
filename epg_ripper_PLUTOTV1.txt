@@ -1,4 +1,4 @@
-202205152331
+202205162332
 
 
 -- epg_ripper_PLUTOTV1 --
@@ -62,9 +62,7 @@ CBS.News.New.York.us
 CBS.News.Philly.us
 CBS.News.Pittsburgh.us
 CBS.News.Sacramento.us
-CBS.News.us
 CBS.Sports.HQ.us
-Chassy.us
 Cheddar.News.us
 Cine.adrenalina.us
 Cine.¡¡jaja!!.us
@@ -79,7 +77,6 @@ Classic.TV.Drama.us
 Classic.TV:.Families.us
 CMT.Equal.Play.us
 CMT.Pluto.TV.us
-CNET.us
 CNN.us
 Cold.Case.Files.us
 Combate.World.us
@@ -111,6 +108,7 @@ ET.Live.us
 Euronews.us
 FailArmy.us
 Faith.TV.us
+Family.Ties.us
 Fear.Factor.us
 Fight.us
 Find.Out.Why.us
@@ -129,16 +127,15 @@ Gameplay:.Fortnite.us
 Gameplay:.Roblox.us
 Gameplay:.Sports.us
 Game.Show.Central.us
-GameSpot.us
 Gaming.on.Verizon.us
 Garfield.and.Friends.us
 GLORY.Kickboxing.us
 Gordon.Ramsay&apos;s.Hell&apos;s.Kitchen.us
 Grande-ish.us
 Gunsmoke.us
+Happy.Days.us
 Heartland.us
 Hell&apos;s.Kitchen.en.español.us
-Hillsong.Channel.us
 IGN.us
 IMPACT.Wrestling.us
 Ink.Master.us
@@ -157,8 +154,8 @@ Little.Baby.Bum.us
 Little.Stars.Universe.us
 Lively.Place.us
 Live.Music.Replay.us
+Logo.Pluto.TV.2.us
 Logo.Pluto.TV.us
-Loupe.us
 Love.\u0026.Hip.Hop.2.us
 Love.\u0026.Hip.Hop.us
 Lucha.Libre.AAA.us
@@ -194,6 +191,7 @@ Naturescape.us
 NBC.News.NOW.us
 News.12.New.York.us
 Newsmax.us
+Newsy.us
 NFL.Channel.us
 Nick.en.español.us
 Nick.Jr..en.español.us
@@ -207,12 +205,12 @@ Nosey.us
 Novelas.con.la.abuela.us
 Nuestra.Visión.us
 OAN.Plus.us
+One.Piece.us
 Paramount.Movie.Channel.us
 Paramount+.Picks.us
 PBR.RidePass.us
 Pelis.y.Popcorn.us
 People.Are.Awesome.us
-PeopleTV.us
 Perry.Mason.us
 PGA.TOUR.us
 Pluto.TV.Action.Sports.us
@@ -307,6 +305,7 @@ The.First.us
 The.Love.Boat.us
 The.New.Detectives.us
 The.Pet.Collective.us
+The.Price.Is.Right:.The.Barker.Era.us
 The.Rifleman.us
 The.Walking.Dead.en.español.us
 This.Old.House.us
