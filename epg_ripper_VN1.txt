@@ -1,4 +1,4 @@
-202205162332
+202205172332
 
 
 -- epg_ripper_VN1 --
@@ -13,28 +13,25 @@ BBC.earth.vn
 BBC.Lifestyle.vn
 BBC.World.News.vn
 Bloomberg.vn
+Boomerang.vn
 BTV5.HD.vn
 Cartoon.Network.vn
 CARTOON.NETWORK.vn
-Channel.V.HD.vn
+CinemaWorld.vn
 Cinemax.vn
 CNN.vn
 Da.Vinci.vn
 Discovery.Asia.vn
 Discovery.Channel.vn
 DISCOVERY.CHANNEL.vn
-Disney.Junior.vn
+Discovery.vn
 DISNEY.JUNIOR.vn
 DISNEY.vn
-Du.lịch.And.Cuộc.sống.HD.vn
+Du.lịch.&amp;.Cuộc.sống.HD.vn
 DW.vn
 FBNC.HD.vn
-FOX.Family.Movies.vn
 FOX.HD.vn
-Fox.life.HD.vn
-FOX.Movies.HD.vn
 FOX.SPORTS.2.vn
-Fox.Sports.HD.vn
 FOX.SPORTS.PLUS.HD.vn
 Fox.Sport.vn
 FRANCE.24.vn
@@ -65,7 +62,6 @@ K+PC.HD.vn
 K+PM.HD.vn
 MTV.Vietnam.vn
 MTV.vn
-National.Geographic.HD.vn
 National.Geographic.Wild.HD.vn
 NGC.HD.vn
 NGC.vn
@@ -73,7 +69,6 @@ NHK.WORLD.JAPAN.vn
 OUTDOOR.vn
 QTV1.vn
 Quốc.Phòng.Việt.Nam.vn
-Red.By.HBO.HD.vn
 SCTV.11.HD.vn
 SCTV.12.HD.-.Du.Lịch.vn
 SCTV13.HD.-.Phụ.nữ.And.Gia.đình.vn
@@ -104,6 +99,7 @@ TH.Vĩnh.Long.1.vn
 TH.VĨNH.LONG.2.-.THVL2.vn
 TH.Vĩnh.Long.2.vn
 THVL2.vn
+TLC.(Travel.&amp;.living).vn
 TTXVN.vn
 TV5.MONDE.vn
 TV.BLUE.-.VTC.5.vn
@@ -134,8 +130,10 @@ VTV8.vn
 VTV9.vn
 VTVCab16-BONGDA.TV.vn
 VTVcab.16.(Bóng.Đá.TV).vn
+VTVCab.18.(On.Sports.TV).vn
 VTVCab1-GIAITRITV.vn
 VTVCab3-THETHAO.TV.vn
 VTVCab.3.(Thể.thao.TV).vn
+Warner.TV.vn
 Yeah1.TV.vn
 YOU.TV.vn
