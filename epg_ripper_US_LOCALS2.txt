@@ -1,4 +1,4 @@
-202205172332
+202205182332
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -929,7 +929,6 @@ Corner.Store.(KLSV-DT3).Las.Vegas,.NV.us
 Corner.Store.(KSFV-CD6).Los.Angeles,.CA.us
 Corner.Store.(KZGN-DT3).Los.Angeles,.CA.us
 Corner.Store.(WBXZ-DT7).Buffalo,.NY.us
-Court.TV.us
 Cozi.TV.us
 CPTV.Spirit.(WEDH-DT3).Hartford,.CT.us
 CPTV.Spirit.(WEDN-DT3).Norwich,.CT.us
