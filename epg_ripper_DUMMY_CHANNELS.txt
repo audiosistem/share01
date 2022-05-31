@@ -1,17 +1,22 @@
-202205292331
+202205302330
 
 
 -- epg_ripper_DUMMY_CHANNELS --
 
+24.7.Dummy.us
 Amazon.Programming.Dummy.us
 AUS.Rules.Football.Dummy.us
 Baseball.Dummy.us
 Basketball.Dummy.us
+Blank.Dummy.us
 Cricket.Dummy.us
+Darts.Dummy.us
 DAZN.Dummy.us
+ESPN+.Dummy.us
 FITE.TV.Dummy.us
 Football.Dummy.us
 Golf.Dummy.us
+Minor.League.Hockey.Dummy.us
 MLB.Baseball.Dummy.us
 MLS.Soccer.Dummy.us
 NBA.Basketball.Dummy.us
@@ -28,6 +33,8 @@ Racing.Dummy.us
 Redbull.Dummy.us
 Rugby.Dummy.us
 Soccer.Dummy.us
+Sporty.Stuff.TV.Dummy.us
+Stingray.Music.Dummy.us
 Tennis.Dummy.us
 UFC.247.Dummy.us
 UFC.Fight.Pass.Dummy.us
