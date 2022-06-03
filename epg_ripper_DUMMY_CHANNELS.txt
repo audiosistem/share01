@@ -1,4 +1,4 @@
-202206012331
+202206022330
 
 
 -- epg_ripper_DUMMY_CHANNELS --
@@ -31,6 +31,7 @@ Olympics.Dummy.us
 PPV.EVENTS.Dummy.us
 Racing.Dummy.us
 Redbull.Dummy.us
+Religious.Dummy.us
 Rugby.Dummy.us
 Soccer.Dummy.us
 Sporty.Stuff.TV.Dummy.us

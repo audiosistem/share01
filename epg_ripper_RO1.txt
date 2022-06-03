@@ -1,4 +1,4 @@
-202206012331
+202206022331
 
 
 -- epg_ripper_RO1 --
@@ -170,14 +170,6 @@ KIKA.ro
 Kiss.TV.ro
 Litoral.TV.ro
 Look.4K.ro
-LOOK.SPORT.2.HD.ro
-LOOK.SPORT.2.ro
-LOOK.SPORT.3.HD.ro
-LOOK.SPORT.3.ro
-LOOK.SPORT.+.HD.ro
-LOOK.SPORT.HD.ro
-LOOK.SPORT.+.ro
-LOOK.SPORT.ro
 Love.Nature.ro
 LUXE.TV.ro
 M1.ro
@@ -234,6 +226,14 @@ Party.Mix.HD.ro
 Party.Mix.ro
 PHOENIX.ro
 Playboy.TV.ro
+PRIMA.SPORT.2.HD.ro
+PRIMA.SPORT.2.ro
+PRIMA.SPORT.3.HD.ro
+PRIMA.SPORT.3.ro
+PRIMA.SPORT.+.HD.ro
+PRIMA.SPORT.HD.ro
+PRIMA.SPORT.+.ro
+PRIMA.SPORT.ro
 Prima.TV.HD.ro
 Prima.TV.ro
 Private.TV.ro
