@@ -1,4 +1,4 @@
-202206062332
+202206072332
 
 
 -- epg_ripper_RO1 --
@@ -7,6 +7,8 @@
 24.Mix.Teleshop.ro
 3sat.ro
 A7TV.ro
+Acasa.Gold.HD.ro
+Acasa.Gold.ro
 Acasa.HD.ro
 Acasa.ro
 Agro.TV.ro
@@ -86,6 +88,7 @@ Digi.Sport.3.ro
 Digi.Sport.4.ro
 Digi.World.HD.ro
 Digi.World.ro
+Disco.Mix.ro
 Discovery.Channel.ro
 Discovery.Science.HD.ro
 Discovery.Science.ro
@@ -142,6 +145,7 @@ France.5.ro
 Fuel.TV.HD.ro
 FunBox.UHD.ro
 Galaxy4.ro
+Gametoon.HD.ro
 GINX.Esports.TV.ro
 Happy.Channel.HD.ro
 Happy.Channel.ro
@@ -169,7 +173,6 @@ Kanal.D.ro
 KIKA.ro
 Kiss.TV.ro
 Litoral.TV.ro
-Look.4K.ro
 Love.Nature.ro
 LUXE.TV.ro
 M1.ro
@@ -226,23 +229,24 @@ Party.Mix.HD.ro
 Party.Mix.ro
 PHOENIX.ro
 Playboy.TV.ro
-PRIMA.SPORT.2.HD.ro
-PRIMA.SPORT.2.ro
-PRIMA.SPORT.3.HD.ro
-PRIMA.SPORT.3.ro
-PRIMA.SPORT.+.HD.ro
-PRIMA.SPORT.HD.ro
-PRIMA.SPORT.+.ro
-PRIMA.SPORT.ro
+Prima.4K.ro
+Prima.Sport.1.HD.ro
+Prima.Sport.1.ro
+Prima.Sport.2.HD.ro
+Prima.Sport.2.ro
+Prima.Sport.3.HD.ro
+Prima.Sport.3.ro
+Prima.Sport.4.HD.ro
+Prima.Sport.4.ro
 Prima.TV.HD.ro
 Prima.TV.ro
 Private.TV.ro
 Pro.7.ro
 Pro.Arena.HD.ro
 Pro.Arena.ro
-PRO.CINEMA.HD.ro
+Pro.Cinema.HD.ro
+Pro.Cinema.ro
 Profit.ro.ro
-PRO.GOLD.HD.ro
 PRO.TV.HD.ro
 PRO.TV.INTERNATIONAL.ro
 PRO.TV.ro
@@ -264,6 +268,7 @@ RTL+.ro
 RTL.ro
 RTL.ZWEI.ro
 Sat.1.ro
+Shop.on.TV.HD.ro
 Sixx.ro
 Smart.TV.HD.ro
 Sorozat+.ro
