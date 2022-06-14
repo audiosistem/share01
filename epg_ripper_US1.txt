@@ -1,4 +1,4 @@
-202206122332
+202206132332
 
 
 -- epg_ripper_US1 --
@@ -301,6 +301,8 @@ National.Geographic.Channel.HDTV.(NGCHD).us
 National.Geographic.Channel.(Korea).(NGCK).us
 National.Religious.Broadcasters.(NRB).us
 NBA.TV.HDTV.(NBA.HD).us
+NBCSNWH.NBC.Sports.Northwest.HD.us
+NBCSPAH.NBC.Sports.Philadelphia.HD.us
 NBC.Sports.Bay.Area.Alternate.(NBCSBA).us
 NBC.Sports.Bay.Area.(CSNBA).us
 NBC.Sports.Bay.Area.HDTV.24/7.(CSNBD).us
@@ -319,6 +321,7 @@ NBC.Sports.Chicago.Plus.Full.Time.(NBCSCH+).us
 NBC.Sports.Network.Alternate.HDTV.DirecTV.(NBCSAHD).us
 NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us
 NBC.Sports.Washington.(NBCSWA).us
+NBSPPHD.NBC.Sports.Philadelphia.Plus.HD.us
 NECNHD.us
 New.England.Sports.Network.HDTV.(NESNHD).us
 New.England.Sports.Network.Plus.HDTV.(NESN+).us
