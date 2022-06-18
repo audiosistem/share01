@@ -1,4 +1,4 @@
-202206162331
+202206172330
 
 
 -- epg_ripper_CA1 --
@@ -582,6 +582,7 @@ Super.Ecran.(SE).ca
 Talent.Vision.TV.(TALENT).ca
 Tamil.Vision.(TVI).ca
 Télémagino.(MAGIO).ca
+Tele.Novelas.(Latin.America).HDTV.(TLNOVHD).ca
 Télé-Québec.(CIVM).(TQC).ca
 Télé-Québec.HDTV.(CIVM).(TQCH).ca
 Teletoon.(East).(Descriptive.Video).(TELETNDV).ca

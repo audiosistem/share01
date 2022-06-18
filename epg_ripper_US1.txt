@@ -1,4 +1,4 @@
-202206162332
+202206172331
 
 
 -- epg_ripper_US1 --
@@ -39,6 +39,7 @@ BabyFirst.Americas.(BABY).us
 Baby.TV.(BABYT).us
 Baby.TV.(Latin.America).(BABYTV).us
 Bally.Sports.North.Plus.(BSNOR+).us
+Bally.Sports.San.Diego.Alternate.Feed.HDTV.(BSSDHDALT).us
 Bandamax.(U.S.).(BANDA).us
 BANG.U.(COEDS).us
 BBC.America.HDTV.(East).(BBC).us
@@ -302,7 +303,6 @@ National.Geographic.Channel.(Korea).(NGCK).us
 National.Religious.Broadcasters.(NRB).us
 NBA.TV.HDTV.(NBA.HD).us
 NBCSNWH.NBC.Sports.Northwest.HD.us
-NBCSPAH.NBC.Sports.Philadelphia.HD.us
 NBC.Sports.Bay.Area.Alternate.(NBCSBA).us
 NBC.Sports.Bay.Area.(CSNBA).us
 NBC.Sports.Bay.Area.HDTV.24/7.(CSNBD).us
@@ -319,9 +319,10 @@ NBC.Sports.Chicago.(NBCSCH).us
 NBC.Sports.Chicago.Plus.Full.Time.HDTV.(NBCSCH+H).us
 NBC.Sports.Chicago.Plus.Full.Time.(NBCSCH+).us
 NBC.Sports.Network.Alternate.HDTV.DirecTV.(NBCSAHD).us
+NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us
+NBC.Sports.Philadelphia.Plus.(NBCSPA+).us
 NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us
 NBC.Sports.Washington.(NBCSWA).us
-NBSPPHD.NBC.Sports.Philadelphia.Plus.HD.us
 NECNHD.us
 New.England.Sports.Network.HDTV.(NESNHD).us
 New.England.Sports.Network.Plus.HDTV.(NESN+).us
