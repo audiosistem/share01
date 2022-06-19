@@ -1,8 +1,7 @@
-202206172331
+202206182332
 
 
 -- epg_ripper_RO1 --
-
 
 24.Mix.Teleshop.HD.ro
 24.Mix.Teleshop.ro
