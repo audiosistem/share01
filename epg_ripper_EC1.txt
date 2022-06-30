@@ -1,4 +1,4 @@
-202206282331
+202206292331
 
 
 -- epg_ripper_EC1 --
@@ -136,8 +136,6 @@ Star.Premium.Hit.HDTV.(East).(STARHT)..ec
 Star.Premium.Hits.(East).(STRHIT)..ec
 Star.Premium.Series.(East).(STARSE)..ec
 Star.Premium.Series.HDTV.(East).(STARSHD)..ec
-Stingray:.Reggaetón.(SMESP)..ec
-Stingray:.Rock.Latino.(SMESP)..ec
 SyFy.HDTV.(Latin.America).(SYFYHD)..ec
 TBN.Enlace.Latin.America.(ENLACE)..ec
 TBS.HDTV.(Sur).(TBS.HD)..ec

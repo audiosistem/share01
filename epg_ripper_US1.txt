@@ -1,4 +1,4 @@
-202206282332
+202206292331
 
 
 -- epg_ripper_US1 --
@@ -92,7 +92,7 @@ Cine.Estelar.(CIES).us
 Cine.Latino.(US).(CINEL).us
 Cinema.4K.DirecTV.2.(CIN4K2).us
 Cinema.4K.DirecTV.(CINE4K).us
-Cinema.One.Global.(CIN1).us
+Cinema.One.Global.(CINONE).us
 Cinemax.HDTV.(East).(MAXHD).us
 CINEMÁX.HDTV.(MAXL).us
 Cinemax.HDTV.(West).(MAXHDW).us
@@ -119,14 +119,14 @@ DIRECTV.Channel.(DTV).us
 DIRECTV.Kids.Mix.(KMX).us
 DIRECTV.Seasonal.Sports.Offer.Channel.(DTV).us
 DirecTV.Sports.(DRCTVSP).us
-DIRECTV.Sports.MixHD.(SMXHD).us
+DIRECTV.Sports.MixHD.(SMX).us
 Discovery.Familia.(U.S..feed).(DFAM).us
 Discovery.Family.Channel.HDTV.(DFCHD).us
 Discovery.Life.Channel.(DLIF).us
 Disney.Junior.HDTV.East.(DISJr).us
 Disney.XD.HDTV.(East).(DXDHD).us
 DOGTV.(DOGTV).us
-Dom.Kino.(KINO).us
+Dom.Kino.(DMKINO).us
 DVR.Showcase.(DTV).us
 DZMM.Teleradyo.(DZMM).us
 EBS.America.(EBS).us
@@ -233,7 +233,7 @@ Indieplex.us
 Infomercial.Channel.(DEALS).us
 Infomercial.Channel.(MALL).us
 Infomercial.Channel.(NEW).us
-Infomercial.(HOME).us
+Infomercial.(INFOM).us
 Infomercial.SECRET.(SECRET).us
 Inspirational.Network.HD.East.(INSPHD).us
 Interactive.Advertising.Channel.HDTV.(IACHD).us
@@ -257,7 +257,7 @@ Lifetime.Movies.HDTV.(East).(LIFEMOV).us
 Lifetime.Television.HDTV.(East).(LIFEH).us
 Link.TV.(LINK).us
 Little.Saigon.Radio.Channel.(LSRC).us
-Live.4K.DirecTV.2.(Live.4K.2).us
+Live.4K.DirecTV.2.(LIVE.4K2).us
 Live.4K.DirecTV.(LIVE4K).us
 LIVENOW.us
 Living.Faith.Network.(LFN).us
@@ -284,7 +284,7 @@ MLB.Network.HDTV.(MLBHD).us
 More.Max.HDTV.(East).(MOMXHD).us
 Motor.Trend.HDTV.(MTHD).us
 MOVIEMAX.HDTV.(MMXHD).us
-MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGa1HD).us
+MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGHDA).us
 msnbc.HDTV.(msnbcH).us
 MTV2.HDTV.(East).(MTV2HD).us
 MTV.Classic.(East).(MTVCL).us
@@ -318,7 +318,6 @@ NBC.Sports.Chicago.HDTV.(NBCSCHHD).us
 NBC.Sports.Chicago.(NBCSCH).us
 NBC.Sports.Chicago.Plus.Full.Time.HDTV.(NBCSCH+H).us
 NBC.Sports.Chicago.Plus.Full.Time.(NBCSCH+).us
-NBC.Sports.Network.Alternate.HDTV.DirecTV.(NBCSAHD).us
 NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us
 NBC.Sports.Philadelphia.Plus.(NBCSPA+).us
 NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us
@@ -538,12 +537,12 @@ Viet.Global.Network.TV.(VGNTV).us
 Vietnamese.Broadcasting.Network.(VBN).us
 Vivid.TV.(VIVID).us
 Vme.(V-Me).us
-Vremya.(VREM).us
+Vremya.(VREMYA).us
 WAPA.América.(WAPA).us
 WE.TV.HDTV.(East).(WE.HD).us
 WGN.America.HDTV.(WGNA).us
 WLLOHD.Willow.Cricket.HD.us
-World.Cup.Cricket.DirecTV.(DTV).us
+World.Cup.Cricket.DirecTV.(WLCKT).us
 World.Fishing.Network.(US).(WFN).us
 World.Harvest.Television.(WHT).us
 WOW.TV.(WOW).us

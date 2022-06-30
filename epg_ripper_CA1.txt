@@ -1,4 +1,4 @@
-202206282331
+202206292330
 
 
 -- epg_ripper_CA1 --
@@ -12,15 +12,11 @@ Aboriginal.Peoples.Television.Network.(Northwest.Territories).(APTN-N).ca
 Accessibilité.Média.Inc..HD.(AMItv).East.HDTV.(AMITLHD).ca
 Accessible.Media.Inc..(AMItv).East.in.HDTV.(AMItvHD).ca
 Addik.TV.HDTV.(addikd).ca
-Adult.Guard.Support.(ALOCK).ca
 Adult.Only.Video.-.Gay.Movies.(AOVGM).ca
 Adult.Only.Video.-.Movies.(AOVM).ca
 Adult.Swim.(ADSM).ca
-Alert.(ALERT).ca
-Alerter.(ALRT).ca
 Al.Jazeera.(English.-.North.America).(ALJAZEE).ca
 Alpha.Sat.(ALPHA).ca
-Amber.Alert.French.(AMBALTFR).ca
 AMC.HDTV.(Canada).(AMCHD).ca
 American.Heroes.Channel.(AHC).ca
 AMI.audio.(East).(AMIAU).ca
@@ -212,8 +208,6 @@ Documentary.Canada.HDTV.(DOCHD).ca
 Dorcel.TV.(English).(DORCL).ca
 Dorcel.TV.(French).(DRCLF).ca
 DTOUR.HDTV.(DTOUR).ca
-DV-CIII.(DV-CIII).ca
-DV-ONE.SDTV.(DV-ONE).ca
 DW.Deutsch+.(DW.D+).ca
 E!.Entertainment.Television.Canada.HDTV.(E!).ca
 ELLE.Fictions.HDTV.(ELLE.HD).ca
@@ -288,7 +282,6 @@ Le.Canal.Nouvelles.HDTV.(LCND).ca
 Lifetime.Canada.HDTV.(LIFETIME).ca
 Ligue.Nationale.de.Hockey.1.HD.(LNHHD1).ca
 Ligue.Nationale.de.Hockey.2.(LNHHD2).ca
-Local.Programming.(Generic).(CATV-90).ca
 Love.Nature.(NATUR).ca
 LS.Times.TV.(LSTTV).ca
 Magnolia.Network.Canada.(SD).(MAG).ca
@@ -297,7 +290,6 @@ MAX.(MAX).ca
 Mediaset.Italia.Canada.(MEDITACA).ca
 Mega.Cosmos.(MEGA).ca
 MétéoMédia.in.HDTV.(MM-HD).ca
-MétéoMedia.(METEO).ca
 Météo.Média.(METMED).ca
 MLB.Extra.Innings.HD.(MLBHD).ca
 MLB.Extra.Innings.HDTV.12.(Bell.TV).(MLBEHD12).ca
@@ -324,7 +316,6 @@ Music.Television.Canada.(MTV).ca
 NatGeo.WILD.Canada.HDTV.(NGWHD).ca
 National.Geographic.Canada.HDTV.(NGCHD).ca
 National.Public.Alert.System.(NPAAS).ca
-Natyf.TV.(NATYF).ca
 NBA.0.League.Pass.(High.Definition).(Bell.TV).(NBA0HDEX).ca
 NBA.10.League.Pass.(Bell.TV).(NBA10HDX).ca
 NBA.League.Pass/MLS.Direct.Kick.HDTV.(TEAM2HD).ca
@@ -351,26 +342,8 @@ NBA.TV.Canada.HDTV.(NBAHD).ca
 NCAA.Sports.Package.HDTV.(NCAA).ca
 NDTV.24x7.(NDTV24x7).ca
 Neepawa.Access.TV.(NACTV).ca
-Netflix.(NETFLIX).ca
 Newfoundland.Television.HDTV.(NTVHD).ca
 NFL3.Sunday.Ticket.(NFL3).ca
-NFLH10.(NFLH10).ca
-NFLH11.Sunday.Ticket.High.Definition.(NFLH11).ca
-NFLH12.Sunday.Ticket.High.Definition.(NFLH12).ca
-NFLH13.Sunday.Ticket.High.Definition.(NFLH13).ca
-NFLH14.Sunday.Ticket.High.Definition.(NFLH14).ca
-NFLH15.Sunday.Ticket.High.Definition.(NFLH15).ca
-NFLH16.Sunday.Ticket.High.Definition.(NFLH16).ca
-NFLH17.Sunday.Ticket.High.Definition.(NFLH17).ca
-NFLH1.(NFLH1).ca
-NFLH2.(NFLH2).ca
-NFLH3.(NFLH3).ca
-NFLH4.(NFLH4).ca
-NFLH5.(NFLH5).ca
-NFLH6.(NFLH6).ca
-NFLH7.(NFLH7).ca
-NFLH8.(NFLH8).ca
-NFLH9.(NFLH9).ca
 NFL.RedZone.HDTV.(SNFLRZDT).ca
 NFL.Sunday.Ticket.HDTV.(NFLHD).ca
 NFL.Sunday.Ticket.(NFL10).ca
@@ -386,18 +359,6 @@ NFL.Sunday.Ticket.(NFL6).ca
 NFL.Sunday.Ticket.(NFL7).ca
 NFL.Sunday.Ticket.(NFL8).ca
 NFL.Sunday.Ticket.(NFL9).ca
-NHL10HDEX.(NHL10HD).ca
-NHL11HDEX.(NHL11HD).ca
-NHL12HDEX.(NHL12HD).ca
-NHL1HDEX.(NHL1HDEX).ca
-NHL2HDEX.(NHL2HDEX).ca
-NHL3HDEX.(NHL3HDEX).ca
-NHL4HDEX.(NHL4HDEX).ca
-NHL5HDEX.(NHL5HDEX).ca
-NHL6HDEX.(NHL6HDEX).ca
-NHL7HDEX.(NHL7HDEX).ca
-NHL8HDEX.(NHL8HDEX).ca
-NHL9HDEX.(NHL9HDEX).ca
 NHL.Centre.Ice.(NHL).ca
 Nickelodeon.Canada.(NICK).ca
 Noovo.Gatineau.HDTV.(NVGA).ca
@@ -425,7 +386,6 @@ Phoenix.North.American.Chinese.Channel.(PSTV).ca
 Playboy.Digital.(Canada).(PLBY).ca
 Prime.Asia.TV.(PRIME).ca
 Prise.2.HDTV.(PRIS2).ca
-Promo.Channel.(PROMOC).ca
 ProSiebenSat.1.(PROSIEBN).ca
 PTC.Punjabi.(PTCTV).ca
 Q107.Toronto.(Q107).ca
@@ -443,7 +403,6 @@ Red.Carpet.TV.(North.America).2.(REDCARP2).ca
 Red.Carpet.TV.(North.America).3.(REDCARP3).ca
 Red.Carpet.TV.(North.America).5.(REDCARP5).ca
 Red.Carpet.TV.(North.America).9.(REDCARP9).ca
-REDCARPT0.(REDCARPT).ca
 Red.Hot.TV.(REDHOT).ca
 Réseau.des.Sports.HDTV.(RDSHD).ca
 Réseau.des.sports.(RDS).ca
@@ -538,14 +497,11 @@ TVA.Sports.3.HDTV.(TVAS3HD).ca
 TVA.Sports.HDTV.(TVASHD).ca
 UNIS.TV.HDTV.(UNISH).ca
 Univision.Canada.(UNICAN).ca
-Venus-Télé.à.la.carte.adulte.(VNSADT).ca
 Vision.TV.Canada.HDTV.(VISNHD).ca
 Vixen.TV.(Canada).(VIXEN).ca
 VOAR.AM.St..John&apos;s.(VOAR).ca
 VRAK-TV.HDTV.(VRAKH).ca
-Vu!.Buy.(VUBUY).ca
 VUPRO.(VUPRO).ca
-Vu!.Tele.a.la.carte.HDTV.(VU-FHD).ca
 WAHS.Radio.(WAHSAFM).ca
 WBTS.NBC.Boston.HDTV.(WBTS).ca
 WBZ.(WBZ).ca

@@ -1,7 +1,8 @@
-202206282331
+202206292331
 
 
 -- epg_ripper_DUMMY_CHANNELS --
+
 
 24.7.Dummy.us
 Amazon.Programming.Dummy.us
@@ -19,6 +20,7 @@ Golf.Dummy.us
 Minor.League.Hockey.Dummy.us
 MLB.Baseball.Dummy.us
 MLS.Soccer.Dummy.us
+Music.Dummy.us
 NBA.Basketball.Dummy.us
 NCAA.Baseball.Dummy.us
 NCAA.Mens.Basketball.Dummy.us
@@ -31,7 +33,6 @@ Olympics.Dummy.us
 PPV.EVENTS.Dummy.us
 Racing.Dummy.us
 Redbull.Dummy.us
-Religious.Dummy.us
 Rugby.Dummy.us
 Soccer.Dummy.us
 Sporty.Stuff.TV.Dummy.us
