@@ -1,4 +1,4 @@
-202207042331
+202207052331
 
 
 -- epg_ripper_AL1 --
@@ -2532,6 +2532,7 @@ Super.Ecran.HDTV.(SEHD).ca
 Super.Ecran.(SE).ca
 Talent.Vision.TV.(TALENT).ca
 Tamil.Vision.(TVI).ca
+Telelatino.ca
 Télémagino.(MAGIO).ca
 Télé-Québec.HDTV.(CIVM).(TQCH).ca
 Teletoon.(East).(TOON).ca
@@ -2560,7 +2561,6 @@ The.Sports.Network.5.HDTV.(TSN5HD).ca
 The.Sports.Network.HDTV.(TSNHD).ca
 The.Weather.Network.(National).HDTV.(WNHD).ca
 The.Weather.Network.(WN).ca
-TLN.Soccer.(TLN).ca
 Toon-A-Vision.(TAV).ca
 Treehouse.TV.HDTV.(TREEH).ca
 TSC.(TSC).ca
@@ -6826,8 +6826,8 @@ KBS.KIDS.kr
 KBS.LIFE.kr
 KBS.Story.kr
 K?쇳?.kr
-?몃????.kr
 ?쇳????.kr
+?몃????.kr
 ???.kr
 ????댄?.kr
 ????쇰?.kr
@@ -6905,8 +6905,8 @@ TVCHOSUN3.kr
 TV.CHOSUN.kr
 ?고??댁?TV.kr
 ?대??쇰━TV.kr
-????대?TV.kr
 ????댁?TV.kr
+????대?TV.kr
 ?????TV.kr
 ???TV.kr
 tvN.DRAMA.kr
