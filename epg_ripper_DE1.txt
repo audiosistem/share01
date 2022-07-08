@@ -1,4 +1,4 @@
-202207062331
+202207072330
 
 
 -- epg_ripper_DE1 --
@@ -15,6 +15,7 @@ BBC.entertainment.de
 BBC.World.de
 Beate.Uhse.TV.de
 Bibel.TV.de
+Bild.TV.de
 BLOOMBERG.TV.de
 BonGusto.de
 BR.Fernsehen.de
@@ -38,6 +39,7 @@ France.2.de
 France.3.de
 gotv.de
 Hamburg.1.de
+HGTV.de
 History.Channel.de
 hr-fernsehen.de
 HSE.de
@@ -79,6 +81,7 @@ Romance.TV.de
 RTL.2.de
 RTL.Crime.de
 RTL.de
+RTL.Living.de
 RTL.Passion.de
 RTL.plus.de
 RTS.Deux.(franz.).de
@@ -103,11 +106,13 @@ Sky.Cinema.Thriller.HD.de
 Sky.Classica.de
 Sky.Comedy.de
 Sky.Crime.de
+Sky.Documentaries.de
 Sky.Fussball.Bundesliga.de
 Sky.GoldStar.de
 Sky.Heimatkanal.de
 Sky.Junior.de
 Sky.Krimi.de
+Sky.Nature.de
 Sky.One.HD.de
 Sky.Sport.1.de
 Sky.Sport.2.de

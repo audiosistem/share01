@@ -1,4 +1,4 @@
-202207062331
+202207072331
 
 
 -- epg_ripper_GR1 --
@@ -55,6 +55,7 @@ Discovery.Science.HD.gr
 Disney.Channel.gr
 Disney.Junior.gr
 Disney.XD.gr
+ducktv.gr
 EDGEsport.HD.gr
 E!.HD.gr
 ENA.Channel.gr
@@ -132,7 +133,6 @@ STAR.gr
 Star.Κεντρικής.Ελλάδας.gr
 Stingray.CMusic.gr
 Stingray.iConcerts.gr
-SundanceTV.gr
 TCM.HD.gr
 The.History.Channel.gr
 Travel.Channel.gr
