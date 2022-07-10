@@ -1,4 +1,4 @@
-202207082331
+202207092331
 
 
 -- epg_ripper_HU1 --
@@ -142,8 +142,6 @@ RTL.II.(HD).hu
 RTL.Klub.(HD).hu
 Sky.News.hu
 Sláger.TV.(HD).hu
-Sony.Max.hu
-Sony.Movie.Channel.hu
 Sorozat+.hu
 Spektrum.(HD).hu
 Spektrum.Home.(HD).hu
