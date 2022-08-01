@@ -1,4 +1,4 @@
-202207302332
+202207312332
 
 
 -- epg_ripper_IN4 --
@@ -41,6 +41,7 @@ and.pictures.in
 and.Prive.HD.in
 and.tv.HD.in
 and.TV.in
+and.xplorHD.in
 Angel.TV.in
 Animal.Planet.HD.World.in
 Animal.Planet.in
