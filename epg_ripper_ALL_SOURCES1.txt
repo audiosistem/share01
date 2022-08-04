@@ -1,4 +1,4 @@
-202208022331
+202208032331
 
 
 -- epg_ripper_AL1 --
@@ -5589,11 +5589,13 @@ B4U.Bhojpuri.in
 B4U.Kadak.in
 B4U.Movies.in
 B4U.Music.in
+B4U.Plus.in
 Baby.TV.HD.in
 Bangla.Bhakti.in
 Bansal.News.in
 BBC.World.in
 Beauty.and.Fashion.Tips.in
+BFlix.Movies.in
 Bhakti.TV.in
 Bharat.Samachar.in
 Bhojpuri.Cinema.in
@@ -5625,6 +5627,7 @@ CNN.News18.in
 Colors.Bangla.Cinema.in
 Colors.Bangla.HD.in
 Colors.Bangla.in
+Colors.Cineplex.Bollywood.in
 Colors.Cineplex.HD.in
 Colors.Cineplex.in
 Colors.Gujarati.Cinema.in
@@ -5850,6 +5853,7 @@ MTV.Beats.in
 MTV.HD.in
 MTV.in
 Murasu.TV.in
+Music.India.in
 Naaptol.in
 Nambikkai.TV.in
 Namma.TV.in
