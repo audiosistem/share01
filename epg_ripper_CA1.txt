@@ -1,4 +1,4 @@
-202208112331
+202208122331
 
 
 -- epg_ripper_CA1 --
@@ -24,6 +24,7 @@ Animal.Planet.Canada.HDTV.(APHD).ca
 Asian.Television.Network.(ATN).ca
 Assemblée.Nationale.(ASSNA).ca
 ATN.B4U.Hindi.Movies.(ATNB4U).ca
+ATN.Cricket.Plus.ca
 ATN.Jaya.(ATNJ).ca
 ATN.Punjabi.(Punja).ca
 BBC.Earth.(BBCE).ca

@@ -1,4 +1,4 @@
-202208112332
+202208122332
 
 
 -- epg_ripper_US1 --
@@ -25,6 +25,7 @@ Antena.3.(Mexico).(ANTENA.3).us
 AQUI.Network.(AQUI).us
 Arirang.Korean.TV.(ARANG).us
 ASPiRE.SDTV.(ASPRE).us
+ATN.-.Cricket.Plus.us
 Atreseries.(ATRES).us
 ATT.SportsNet.Pittsburgh.Alternate.HDTV.DirecTV.(ATTPTaD).us
 ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us

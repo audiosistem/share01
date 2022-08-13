@@ -1,4 +1,4 @@
-202208112332
+202208122332
 
 
 -- epg_ripper_UK1 --
@@ -116,7 +116,8 @@ BT.Sport.2.HD.uk
 BT.Sport.2.uk
 BT.Sport.3.HD.uk
 BT.Sport.3.uk
-BT.Sport//ESPN.uk
+BT.Sport.4.HD.uk
+BT.Sport.4.uk
 BTSptBoxOffHD.uk
 BTSpt//ESPNHD.uk
 Capital.uk

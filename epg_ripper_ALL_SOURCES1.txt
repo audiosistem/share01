@@ -1,4 +1,4 @@
-202208112331
+202208122331
 
 
 -- epg_ripper_AL1 --
@@ -2105,6 +2105,7 @@ Animal.Planet.Canada.HDTV.(APHD).ca
 Asian.Television.Network.(ATN).ca
 Assemblée.Nationale.(ASSNA).ca
 ATN.B4U.Hindi.Movies.(ATNB4U).ca
+ATN.Cricket.Plus.ca
 ATN.Jaya.(ATNJ).ca
 ATN.Punjabi.(Punja).ca
 BBC.Earth.(BBCE).ca
@@ -6467,11 +6468,11 @@ KBS.KIDS.kr
 KBS.LIFE.kr
 KBS.Story.kr
 K?쇳?.kr
-?쇳????.kr
 ?몃????.kr
+?쇳????.kr
 ???.kr
-????쇰?.kr
 ????댄?.kr
+????쇰?.kr
 ????룸??댄?.kr
 K.star.kr
 KTV.kr
@@ -6546,8 +6547,8 @@ TVCHOSUN3.kr
 TV.CHOSUN.kr
 ?고??댁?TV.kr
 ?대??쇰━TV.kr
-????대?TV.kr
 ????댁?TV.kr
+????대?TV.kr
 ?????TV.kr
 ???TV.kr
 tvN.DRAMA.kr
@@ -7753,8 +7754,9 @@ DISCOVERY.CHANNEL.HD.al
 DREAMWORKS.al
 DREAMWORKS.HD.al
 DZMM.TELERADYO.al
-ETC.al
 EURONEWS.al
+EUROSPORT.al
+EUROSPORT.HD.al
 FASHION.TV.al
 FASHION.TV.HD.al
 FIGHT.SPORTS.HD.al
@@ -7805,6 +7807,7 @@ NICK.JR..al
 ONE.SPORTS.al
 OUTDOOR.CHANNEL.al
 OUTDOOR.CHANNEL.HD.al
+PBO.al
 PREMIER.FOOTBALL.HD.al
 PREMIER.SPORTS.2.HD.al
 PREMIER.SPORTS.al
@@ -7813,6 +7816,9 @@ ROCK.ENTERTAINMENT.al
 ROCK.ENTERTAINMENT.HD.al
 ROCK.EXTREME.al
 ROCK.EXTREME.HD.al
+SKYPPV.2.al
+SKYPPV.2.HD.al
+SOLARFLIX.al
 SOLAR.SPORTS.al
 SPOTV..2.al
 SPOTV.2.HD.al
@@ -9475,7 +9481,8 @@ BT.Sport.2.HD.uk
 BT.Sport.2.uk
 BT.Sport.3.HD.uk
 BT.Sport.3.uk
-BT.Sport//ESPN.uk
+BT.Sport.4.HD.uk
+BT.Sport.4.uk
 BTSptBoxOffHD.uk
 BTSpt//ESPNHD.uk
 Capital.uk
@@ -9920,6 +9927,7 @@ Antena.3.(Mexico).(ANTENA.3).us
 AQUI.Network.(AQUI).us
 Arirang.Korean.TV.(ARANG).us
 ASPiRE.SDTV.(ASPRE).us
+ATN.-.Cricket.Plus.us
 Atreseries.(ATRES).us
 ATT.SportsNet.Pittsburgh.Alternate.HDTV.DirecTV.(ATTPTaD).us
 ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us
