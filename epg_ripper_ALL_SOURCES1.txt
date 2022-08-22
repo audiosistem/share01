@@ -1,4 +1,4 @@
-202208202331
+202208212331
 
 
 -- epg_ripper_AL1 --
@@ -5990,6 +5990,7 @@ Shalom.TV.in
 Sharnam.TV.in
 Shemaroo.MarathiBana.in
 Shemaroo.TV.in
+Shemaroo.Umang.in
 Shirdi.Sai.Baba.in
 Showbox.in
 Showcase.1.in
@@ -6468,8 +6469,8 @@ KBS.KIDS.kr
 KBS.LIFE.kr
 KBS.Story.kr
 K?쇳?.kr
-?몃????.kr
 ?쇳????.kr
+?몃????.kr
 ???.kr
 ????댄?.kr
 ????쇰?.kr

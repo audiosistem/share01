@@ -1,4 +1,4 @@
-202208202331
+202208212332
 
 
 -- epg_ripper_IN4 --
@@ -468,6 +468,7 @@ Shalom.TV.in
 Sharnam.TV.in
 Shemaroo.MarathiBana.in
 Shemaroo.TV.in
+Shemaroo.Umang.in
 Shirdi.Sai.Baba.in
 Showbox.in
 Showcase.1.in
