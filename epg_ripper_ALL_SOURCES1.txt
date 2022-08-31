@@ -1,4 +1,4 @@
-202208292331
+202208302331
 
 
 -- epg_ripper_AL1 --
@@ -6548,8 +6548,8 @@ TVCHOSUN3.kr
 TV.CHOSUN.kr
 ?고??댁?TV.kr
 ?대??쇰━TV.kr
-????댁?TV.kr
 ????대?TV.kr
+????댁?TV.kr
 ?????TV.kr
 ???TV.kr
 tvN.DRAMA.kr
@@ -14858,4 +14858,5 @@ Zee.World.HD.za
 
 -- locomotiontv --
 
-
+AZTV
+Locomotion
