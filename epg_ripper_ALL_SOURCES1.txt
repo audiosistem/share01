@@ -1,4 +1,4 @@
-202208302331
+202208312331
 
 
 -- epg_ripper_AL1 --
@@ -5631,6 +5631,7 @@ Colors.Bangla.in
 Colors.Cineplex.Bollywood.in
 Colors.Cineplex.HD.in
 Colors.Cineplex.in
+Colors.Cineplex.Superhits.in
 Colors.Gujarati.Cinema.in
 Colors.Gujarati.in
 Colors.HD.+1.in
@@ -5735,6 +5736,7 @@ Gemini.Music.in
 Gemini.TV.HD.in
 Gemini.TV.in
 God.TV.in
+Goldmines.Bollywood.in
 Goldmines.in
 Goodness.in
 Good.News.Today.in
@@ -6472,8 +6474,8 @@ K?쇳?.kr
 ?몃????.kr
 ?쇳????.kr
 ???.kr
-????쇰?.kr
 ????댄?.kr
+????쇰?.kr
 ????룸??댄?.kr
 K.star.kr
 KTV.kr
@@ -6548,8 +6550,8 @@ TVCHOSUN3.kr
 TV.CHOSUN.kr
 ?고??댁?TV.kr
 ?대??쇰━TV.kr
-????대?TV.kr
 ????댁?TV.kr
+????대?TV.kr
 ?????TV.kr
 ???TV.kr
 tvN.DRAMA.kr
