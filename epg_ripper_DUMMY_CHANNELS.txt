@@ -1,9 +1,10 @@
-202209062331
+202209072330
 
 
 -- epg_ripper_DUMMY_CHANNELS --
 
 24.7.Dummy.us
+Adult.Programming.Dummy.us
 Amazon.Programming.Dummy.us
 AUS.Rules.Football.Dummy.us
 Baseball.Dummy.us
@@ -16,6 +17,7 @@ ESPN+.Dummy.us
 FITE.TV.Dummy.us
 Football.Dummy.us
 Golf.Dummy.us
+Local.Programming.Dummy.us
 Minor.League.Hockey.Dummy.us
 MLB.Baseball.Dummy.us
 MLS.Soccer.Dummy.us
@@ -25,6 +27,7 @@ NCAA.Baseball.Dummy.us
 NCAA.Mens.Basketball.Dummy.us
 NCAA.Softball.Dummy.us
 NCAA.Womens.Basketball.Dummy.us
+NFL.Dummy.us
 NHL.Hockey.Dummy.us
 NHL.Hockey.Dummy.us
 No.Game.Dummy.Scheduled.us
