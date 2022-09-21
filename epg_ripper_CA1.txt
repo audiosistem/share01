@@ -1,4 +1,4 @@
-202209192331
+202209202331
 
 
 -- epg_ripper_CA1 --
@@ -230,6 +230,7 @@ FXX.HDTV.Canada.(FXXHD).ca
 Game.Show.Network.HDTV.(EAST).(GMSHWHD).ca
 GameTV.(GTV).ca
 Global.BC.HDTV.(CHANHD).ca
+Global.Calgary.(CICT).ca
 Global.Calgary.HDTV.(GLOBHD).ca
 Global.Edmonton.(CITV).ca
 Global.Lethbridge.(CISA).ca
