@@ -1,4 +1,4 @@
-202209202332
+202209212332
 
 
 -- epg_ripper_US1 --
@@ -53,9 +53,11 @@ ARY.Digital.(ARYDIG).us
 ARY.News.(ARYNEWS).us
 ASPiRE.SDTV.(ASPRE).us
 ATN.Ary.Zauq.(ARYZQ).us
+ATN.Bangla.(SBATN).us
 ATN.Colors.Marathi.(COLOR).us
 ATN.-.Cricket.Plus.us
 ATN.Jaya.(ATNJ).us
+ATN.News.(SBANW).us
 Atreseries.(ATRES).us
 ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us
 ATT.SportsNet.Rocky.Mountain.24/7.HDTV.(ATTHD).us
@@ -88,16 +90,12 @@ Bally.Sports.Midwest.(St..Louis).(BSMW).us
 Bally.Sports.Midwest.St..Louis.HDTV.24/7.(BSMWHD).us
 Bally.Sports.North.HDTV.(BSNOR).us
 Bally.Sports.North.Plus.(BSNOR+).us
-Bally.Sports.Ohio.(Cincinnati).(BSOH).us
-Bally.Sports.Ohio.(Cincinnati.Dish).(BSOH).us
 Bally.Sports.Ohio.(Cincinnati.Dish).HDTV.(BSOHHD).us
 Bally.Sports.Ohio.(Cincinnati).HDTV.(BSOHHD).us
-Bally.Sports.Ohio.(Cleveland).(BSOH).us
 Bally.Sports.Ohio.(Cleveland).HDTV.(BSOHHD).us
 Bally.Sports.San.Diego.Alternate.Feed.HDTV.(BSSDHDALT).us
 Bally.Sports.San.Diego.HDTV.(BSSDHD).us
 Bally.Sports.SoCal.(BSSCHD).us
-Bally.Sports.SoCal.(PRIME).us
 Bally.Sports.South.(Atlanta.DMA).24/7.HDTV.(BSSOHD).us
 Bally.Sports.South.(Dish).(BSSO).us
 Bally.Sports.Southeast.HDTV.(Georgia).(BSSEHD).us
@@ -105,10 +103,8 @@ Bally.Sports.South.HDTV.(Dish).(BSSOHD).us
 Bally.Sports.Southwest.(BSSW).us
 Bally.Sports.Southwest.HDTV.24/7.(Main).(BSSWHD).us
 Bally.Sports.Southwest.HDTV.(Dallas.DMA).24/7.(BSSWHD).us
-Bally.Sports.Sun.(BSSUN).us
 Bally.Sports.Sun.HDTV.(BSSUNHD).us
 Bally.Sports.Sun.South.(BSSUN).us
-Bally.Sports.West.(FSW).us
 Bally.Sports.West.HDTV.(BSWSTHD).us
 Bandamax.(U.S.).(BANDA).us
 Band.Internacional.(United.States).(BAND).us
@@ -169,7 +165,6 @@ Chong.Qing.TV.(CQTV).us
 Christian.Television.Network.(CTN).us
 CIMA.(CIMA).us
 Cine.Latino.(US).(CINEL).us
-Cinemax.(East).(MAX).us
 Cinemax.HDTV.(East).(MAXHD).us
 Cinemax.HDTV.(West).(MAXHDW).us
 Cine.Sony.Television.(CSONY).us
@@ -184,7 +179,6 @@ Colors.Kannada.(CLRSK).us
 Colors.Marathi.(COLMAR).us
 Colors.Rishtey.(RISH).us
 Colors.Tamil.(CLRSTAM).us
-Comedy.Central.(East).(COMEDY).us
 Comedy.Central.HDTV.(East).(CMDHD).us
 Comet.TV.(COMET).us
 Consumer.News.and.Business.Channel.HDTV.(CNBCH).us
@@ -243,12 +237,10 @@ Family.Entertainment.(FETV).us
 Family.Movie.Classics.(FAMMCLSD).us
 FanDuel.Racing.(FANDUELR).us
 FanDuel.TV.(FANDUEL).us
-Five.Star.Max.(5STMAX).us
 Five.Star.Max.HDTV.(5MXHD).us
 Flix.(East).(FLIXe).us
 FM.(FM).us
 Food.Food.(FOOD2).us
-Food.Network.(East).(FOOD).us
 Food.Network.HDTV.(East).(FOODHD).us
 Formosa.TV.(FTVTW).us
 Foro.TV.(4TV).us
@@ -268,7 +260,6 @@ Fujian.Straits.TV.(SETV).(FUJTV).us
 Fuse.HDTV.(East).(FUSED).us
 Future.TV.(Arabic).(FUTR).us
 FX.HDTV.(East).(FX.HD).us
-FX.Movie.Channel.(FXM).us
 FX.Movie.Channel.HDTV.(FXMHD).us
 FXX.HDTV.(East).(FXXHD).us
 FYI.HDTV.(FYIHD).us
@@ -313,7 +304,6 @@ History.HDTV.(East).(HISHD).us
 HITN-TV.(HITN).us
 HLN.HDTV.(HLNHD).us
 ¡Hola!.TV.(USA).(HOLA).us
-Home.and.Garden.Television.(East).(HGTV).us
 Home.and.Garden.Television.HDTV.(East).(HGTVD).us
 Home.Shopping.Network.2.HDTV.(HSN2).us
 Home.Shopping.Network.(HSN).us
@@ -351,6 +341,7 @@ JUS.Now.(JUSNOW).us
 Jus.One.(JUS1).us
 Jus.Punjabi.(JUSPUNJ).us
 Justice.Central.(JUST).us
+Kairali.TV.(KAIRA).us
 Kapatid.TV5.(KTV5).us
 KBYU.Brigham.Young.University.TV.(BYUTV).us
 Kids.Street.(KIDST).us
@@ -361,9 +352,7 @@ Laff.TV.(DISH).(LAFF).us
 Law.and.Crime.(LAWC).us
 LBCI.(LBCI).us
 Lebanese.Broadcasting.Corporation.(LBC).us
-Lifetime.Movies.(East).(LIFEMOV).us
 Lifetime.Movies.HDTV.(East).(LIFEMOV).us
-Lifetime.Television.(East).(LIFE).us
 Lifetime.Television.HDTV.(East).(LIFEH).us
 Link.TV.(LINK).us
 LIVENOW.us
@@ -372,10 +361,10 @@ LRW.Lifetime.Real.Women.us
 Madison.Square.Garden.HDTV.(MSG.HD).us
 Madison.Square.Garden.Plus.HDTV.(MSG+H).us
 Magnolia.Network.HDTV.(MAGNOLIA).us
-Magnolia.Network.(MAGNOLIA).us
 MallTV.(MALLTV).us
 MARQ.Marquee.Sports.Network.us
 Mav.TV.HDTV.(MavHD).us
+Mazhavil.Manorama.(MAZHAVIL).us
 MBC.Drama.(MBCDRAMA).us
 MBC.Kids.(MBC3).us
 MBC.Masr.(MBC.Masr).us
@@ -394,7 +383,6 @@ MLB.Network.HDTV.(DISH).(MLBHD).us
 MLB.Network.Strike.Zone.HDTV.(MLBSZ).us
 More.Max.(East).(MOMAX).us
 Motor.Trend.HDTV.(MTHD).us
-Motor.Trend.SDTV.(MT).us
 MOVIEMAX.HDTV.(MMXHD).us
 MoviePlex.East.(MPLEX).us
 MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGHDA).us
@@ -462,6 +450,7 @@ Noursat.(NORST).us
 Now.Barker.(EAS80037).us
 Now.BNC.(BNC).us
 now.HaiRun.(now.Chinese.Drama).(NOWHAIRU).us
+NTV.Bangla.(SBNTV).us
 Nuestra.Tele.Noticias.24.(NTN24).us
 Olympic.Channel.HDTV.(OLYHD).us
 One.America.News.Network.HDTV.(East).(OANHD).us
@@ -505,7 +494,6 @@ PTV.Global.(PTVGLOB).us
 Pursuit.Channel.(DISH.only).(PRST).us
 QTV.Pakistan.(QTVPAKIS).us
 Quality.Value.Convenience.Network.HDTV.(QVCHD).us
-Quality.Value.Convenience.Network.(QVC).us
 QVC2.(QVC2).us
 QVC3.(QVC3).us
 Radio.Channel.(RADIO).us
@@ -599,9 +587,7 @@ Star.Chinese.Channel.(STARC).us
 Star.Chinese.Movies.2.(STARM).us
 Start.TV.Network.(East.Feed).(START).us
 STARZ.Cinema.(East).(STZCI).us
-Starz.Comedy.(East).(STZ.C).us
 STARZ.Comedy.HD.(East).(SZCHD).us
-Starz.Edge.(East).(STZ.E).us
 STARZ.Edge.HD.(East).(SZEHD).us
 STARZ.ENCORE.Action.(East).(STZAC).us
 STARZ.ENCORE.Black.(East).(STZBK).us
@@ -622,6 +608,8 @@ Sun.TV.Tamil.(SUN.TV).us
 Super.Canal.Caribe.SD.(SUPCA).us
 SuperDISH.at.121.(D121).us
 Super.SportFM.(SSPFM).us
+Surya.Movies.(SURYA).us
+Surya.TV.(SURYA).us
 Syfy.HDTV.(SYFYHD).us
 Tarima.TV.(TARIMA).us
 TASTE.Tastemade.us
@@ -635,11 +623,11 @@ Telehit.(U.S.).(TELHT).us
 Telemicro.(Dominican.Republic).(TLMIC).us
 Telemundo.Network.(East).(TELMUN).us
 Telemundo.Network.(West).(TELMUN).us
+TeleRitmo.(TELRIT).us
 Teleuniverso.(TLUNI).us
 Televisión.de.Venezuela.(TELVEN).us
 Tennis.Channel.HDTV.(TNNSHD).us
 TEN.XX.5.(TENXX5).us
-The.Cooking.Channel.(COOK).us
 The.Cooking.Channel.HDTV.(COOKHD).us
 The.Cowboy.Channel.(COWBOY).us
 The.Discovery.Channel.en.Español.(DSCE).us
@@ -693,12 +681,10 @@ TV9.Gujarati.(Sling).(GUJAR).us
 TV.Asia.(Canada).(TVASIA).us
 TV.Asia.HDTV.-.Asia.Star.Broadcasting,.Inc..(TVASIA).us
 TVB1.HDTV.(TVB1HD).us
-TVB1.(TVB1).us
 TVB2.(TVB2).us
 TVB.Chinese.(TVB8).us
 TVB.Drama.Channel.(TVBD).us
 TVBe.HDTV.(TVBeHD).us
-TVBe.(TVBe).us
 TVBJ.(TVBJ).us
 TVB.News.(TVBN).us
 TVBS.(TVBS).us
@@ -727,7 +713,6 @@ Univision.Network.HDTV.(UNIHD).us
 Univisión.Network.(Pacific).(UNI).us
 Univisión.tlnovelas.(TLNOV).us
 UPtv.HDTV.(UPTVHD).us
-USA.Network.(East).(USA).us
 USA.Network.HDTV.(East).(USAHD).us
 USTV.(USTV).us
 VALU.(VALU).us
