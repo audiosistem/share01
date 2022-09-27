@@ -1,4 +1,4 @@
-202209252332
+202209262332
 
 
 -- epg_ripper_US1 --
@@ -63,6 +63,8 @@ ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us
 ATT.SportsNet.Rocky.Mountain.24/7.HDTV.(ATTHD).us
 ATT.SportsNet.Rocky.Mountain.(ATTSN).us
 ATT.SportsNet.Rocky.Mountain.(Dish).(ATTSN).us
+ATTSWHD.ATT.SportsNet.Southwest.HD.us
+ATTSWPL.ATT.SportsNet.Southwest.Plus.us
 A.Wealth.of.Entertainment.HDTV.(AWEHD).us
 AXSTV.HD.(AXSTV).us
 AZ.Corazón.(AZCRZON).us
@@ -576,6 +578,7 @@ Sony.Entertainment.Television.Asia.(SET.-.Asia.International).(SONYTV).us
 Sony.Marathi.(Dish).(SONY.MAR).us
 SONY.MAX.2.(SONYMAX2).us
 Sony.Movie.Channel.HD.(SONY).us
+Spectrum.SportsNet.LA.(SNLA).us
 SportPlus.(SPORT).us
 Sports.Alternate.(PAC12).us
 SportsNet.New.York.HDTV.(SNYHD).us
@@ -690,9 +693,9 @@ TVB.News.(TVBN).us
 TVBS.(TVBS).us
 TVBV.(TVBV).us
 TVE.Internacional.(North.and.South.America).(TVE).us
+TV.Games.Network.2.(TVG2).us
 TV.Games.Network.(TVG).us
 TV.Globo.Internacional.(LATAM.and.United.States).(GLOBO).us
-TVGN2.TV.Games.Network.2.us
 TVI.Internacional.(TVI).us
 TV.Japan.HDTV.(TVJPNHD).us
 TV.Land.(East).(TVLAND).us
