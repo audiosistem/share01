@@ -1,4 +1,4 @@
-202209272331
+202209282331
 
 
 -- epg_ripper_AL1 --
@@ -6697,8 +6697,8 @@ TVCHOSUN3.kr
 TV.CHOSUN.kr
 ?고??댁?TV.kr
 ?대??쇰━TV.kr
-????대?TV.kr
 ????댁?TV.kr
+????대?TV.kr
 ?????TV.kr
 ???TV.kr
 tvN.DRAMA.kr
@@ -8198,7 +8198,7 @@ Naturescape.us
 NBC.News.NOW.us
 News.12.New.York.us
 Newsmax.us
-Newsy.us
+Newsy.news.us
 NFL.Channel.us
 Nick.en.español.us
 Nick.Jr..en.español.us
@@ -9944,6 +9944,7 @@ LBC.News.uk
 LBC.uk
 Legend.uk
 LFCTV.HD.uk
+Lifetime.HD.uk
 Live.360.uk
 Local.TV.uk
 London.Live.uk

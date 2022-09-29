@@ -1,4 +1,4 @@
-202209272332
+202209282332
 
 
 -- epg_ripper_UK1 --
@@ -282,6 +282,7 @@ LBC.News.uk
 LBC.uk
 Legend.uk
 LFCTV.HD.uk
+Lifetime.HD.uk
 Live.360.uk
 Local.TV.uk
 London.Live.uk
