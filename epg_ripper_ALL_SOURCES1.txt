@@ -1,4 +1,4 @@
-202209282331
+202209292331
 
 
 -- epg_ripper_AL1 --
@@ -2381,7 +2381,7 @@ Global.Lethbridge.(CISA).ca
 Global.Manitoba.(CKND).ca
 Global.Maritimes.(CIHF).ca
 Global.Okanagan.(CHBC).ca
-Global.Ontario/CIII.HDTV.(GLBHD).ca
+Global.Ontario.CIII.HDTV.(GLBHD).ca
 Global.Quebec.HDTV.(GLBHD).ca
 Global.Regina.(CFRE).ca
 Global.Saint.John.(CHNB).ca
@@ -10598,7 +10598,6 @@ News18.Tamil.(N18TML).us
 Newsmax.(NEWSM).us
 NewsNation.HDTV.(NEWSNTN).us
 News.Only.(Sling).(NEWSO).us
-NEWSY.us
 Next.Level.Sports.(NLS).us
 NFL.RedZone.HDTV.(NFLRZD).us
 NHL.Network.Alternate.HDTV.(NHLaHD).us
@@ -10894,7 +10893,7 @@ WeatherNation.HDTV.(WTHRN).us
 Willow.Cricket.HDTV.(WILLHD).us
 Willow.Cricket.HDTV.(WILLOWHD).us
 Willow.Xtra.(WILLX).us
-Women&apos;s.Entertainment.HDTV.(East).(WE.HD).us
+Womens.Entertainment.HDTV.(East).(WE.HD).us
 World.Fishing.Network.(US).(WFN).us
 WPIX.(WPIX).us
 WSBK.(myTV38).us

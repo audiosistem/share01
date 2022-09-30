@@ -1,4 +1,4 @@
-202209282331
+202209292331
 
 
 -- epg_ripper_CA1 --
@@ -237,7 +237,7 @@ Global.Lethbridge.(CISA).ca
 Global.Manitoba.(CKND).ca
 Global.Maritimes.(CIHF).ca
 Global.Okanagan.(CHBC).ca
-Global.Ontario/CIII.HDTV.(GLBHD).ca
+Global.Ontario.CIII.HDTV.(GLBHD).ca
 Global.Quebec.HDTV.(GLBHD).ca
 Global.Regina.(CFRE).ca
 Global.Saint.John.(CHNB).ca
