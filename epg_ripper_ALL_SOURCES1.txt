@@ -1,4 +1,4 @@
-202210182331
+202210192330
 
 
 -- epg_ripper_AL1 --
@@ -6618,11 +6618,11 @@ KBS.KIDS.kr
 KBS.LIFE.kr
 KBS.Story.kr
 K?쇳?.kr
-?몃????.kr
 ?쇳????.kr
+?몃????.kr
 ???.kr
-????댄?.kr
 ????쇰?.kr
+????댄?.kr
 ????룸??댄?.kr
 K.star.kr
 KTV.kr
@@ -8006,6 +8006,45 @@ WARNER.TV.HD.ph
 WARNER.TV.ph
 YEY!.ph
 ZOO.MOO.ph
+
+
+-- epg_ripper_PH2 --
+
+A2Z.Channel.11.ph
+ANC.ph
+Animax.ph
+AXN.ph
+Blue.Ant.Extreme.ph
+Celestial.Movies.Pinoy.ph
+Cinema.One.ph
+Cinemax.ph
+CNN.Philippines.ph
+Crime.and.Investigation.ph
+Disney.Channel.ph
+Disney.Junior.ph
+ETC.ph
+FoxCrime.ph
+Fox.Life.ph
+Fox.Movies.ph
+FOX.ph
+GEM.TV.ph
+GMA.7.ph
+GMA.News.TV.ph
+HBO.ph
+History.Channel.ph
+IBC.13.ph
+Jeepney.TV.ph
+Kapamilya.Channel.ph
+Metro.Channel.ph
+MYX.ph
+National.Geographic.ph
+Nickelodeon.ph
+PBO.ph
+PTV.ph
+Tagalized.Movie.Channel.ph
+Telenovela.Channel.ph
+TV.5.ph
+Viva.Channel.ph
 
 
 -- epg_ripper_PLUTOTV1 --
