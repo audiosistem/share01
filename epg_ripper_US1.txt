@@ -1,4 +1,4 @@
-202211012332
+202211022332
 
 
 -- epg_ripper_US1 --
@@ -10,7 +10,7 @@ A.and.E.Network.HDTV.(A.and.EHD).us
 Aapka.Colors.(US).(AAPKAUS).us
 Aastha.Bhajan.(ABHJN).us
 Aastha.TV.(ASTHA).us
-ABC.NEWS.us
+ABCNEWS.us
 ABP.Sanjha.India.(ABPSAN).us
 ACC.Network.HDTV.(ACCN).us
 ActionMAX.HDTV.(East).(AMXHD).us
